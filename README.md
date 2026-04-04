@@ -120,7 +120,7 @@ Special thanks to all projects and developers that inspired or contributed to Ko
 
 * UN1CA (for features)
 * LemonUI (for build.prop tweaks)
-* NightOS (for debloat list,principal idea of KonfigX Idea <3)
+* NightOS (for debloat list,principal idea of KonfigX ROM Idea... <3)
 * H33CKER (for tweaks)
 * MonsterROM (for tweaks)
 * Loftenth (for bug fixes)
@@ -134,7 +134,7 @@ Special thanks to all projects and developers that inspired or contributed to Ko
 - **[K0nf1gur@r3 Ph0n3s](https://github.com/KonfigurarePhones)** (Owner)
 - **[YACINEGTI](https://github.com/Yacinegti-DZ)** (o1s + helper)
 - **[Zarzour](https://github.com/samsungs215Ghype)** (o1s + helper)
-- .tomek𝐜𝐳(o1s + tester)
+- .tomek𝐜𝐳 (o1s + tester)
 - **[at.wralt](https://github.com/idkqwertyuiopasdf)** (doing half of work)
 * Biel Jose (r9s + helper)
 * tzerx (tester)
