@@ -118,17 +118,16 @@ Special thanks to all projects and developers that inspired or contributed to Ko
 
 ### Projects
 
-* UN1CA (for build system)
-* EliteUI (for tweaks)
+* UN1CA (for features)
 * LemonUI (for build.prop tweaks)
 * NightOS (for debloat list,principal idea of KonfigX Idea <3)
 * H33CKER (for tweaks)
 * MonsterROM (for tweaks)
 * Loftenth (for bug fixes)
 * Haip4eva (for tweaks)
-* ExtremeROM (for build system)
+* ExtremeROM (for tweaks)
 * LumiROM (for tweaks and idea of ROM)
-* ProjectNERV (for base of the ROM banner)
+* ProjectNERV (for base of the ROM banner and build system)
 
 ### Contributors
 
