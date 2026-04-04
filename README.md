@@ -2,78 +2,150 @@
   <img loading="lazy" src="readme-res/banner.png"/>
 </h1>
 <p align="center">
-  <a href="https://github.com/yagzie/NERV/blob/paradigm/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/yagzie/NERV?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/yagzie/NERV/commits/paradigm"><img loading="lazy" src="https://img.shields.io/github/last-commit/yagzie/NERV/paradigm?style=for-the-badge"/></a>
-  <a href="https://github.com/yagzie/NERV/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/yagzie/NERV?style=for-the-badge"/></a>
-  <a href="https://github.com/yagzie/NERV/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/yagzie/NERV?style=for-the-badge"/></a>
-  <a href="https://github.com/yagzie/NERV/actions/workflows/build.yml"><img loading="lazy" src="https://img.shields.io/github/actions/workflow/status/yagzie/NERV/build.yml?style=for-the-badge"/></a>
-</p>
-<p align="center">UN1CA <i>(/ˈu.ni.ka/)</i> is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
 
-<p align="center">
-  <a href="https://t.me/unicarom">💬 UN1CA Telegram</a>
-</p>
+<p align="center">KonfigX is a next-generation custom firmware for Samsung Galaxy devices.
 
-<p align="center">
-  <a href="https://t.me/SE_NERV">💬 NERV Telegram</a>
-</p>
+<p align="center"> Our Telegram <p align="center">(https://t.me/KonfigXROM)
 
-# What is UN1CA?
-UN1CA is a work-in-progress custom firmware for Samsung Galaxy devices. It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
-Its build system allows to automatically download/extract the firmware, apply the required patches and generates a flashable zip package for the specified device.
+---
 
-Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
+# KonfigX
 
-# What is NERV?
-NERV is a fork of UN1CA; to make the build system work with One UI 7, we are aiming for an UN1CA-like experience with what we can do. All changes have been made under GPLv3, if you see any problems about credits at repo, please kindly report to me at Telegram, XDA or email. 
+> Refined • Optimized • Powerful One UI Experience
 
-# Features
-- Based on the latest Samsung devices firmware:
-  - Galaxy S23 (Paradigm)
-  - Galaxy S23 FE (Paradigm)
-  - Galaxy A73 5G (Fun)
-- Galaxy AI support
-- App Lock Support
-- High end animations
-- Screenshots from Secure Apps support
-- ASKS disabled 
-- APK Downgrade support
-- Native/live blur support (Paradigm)
-- Adaptive refresh rate support (Paradigm)
-- Extra brightness support
-- Picture remaster support
-- Object, shadow and reflection eraser support
-- Image clipper support
-- Smart Suggestions widget
-- Samsung Now Brief support
-- Multi user support
-- Samsung DeX support (Paradigm)
-- Camera privacy toggle support
-- Debloated from useless system services/additional apps
-- [BluetoothLibraryPatcher](https://github.com/3arthur6/BluetoothLibraryPatcher) included
-- [KnoxPatch](https://github.com/salvogiangri/KnoxPatch) implemented in system frameworks
+---
 
-# Licensing
-This project is licensed under the terms of the [GNU General Public License v3.0](LICENSE). External dependencies might be distributed under a different license, such as:
-- [android-tools](https://github.com/nmeum/android-tools), licensed under the [Apache License 2.0](https://github.com/nmeum/android-tools/blob/master/LICENSE)
-- [apktool](https://github.com/iBotPeaches/Apktool), licensed under the [Apache License 2.0](https://github.com/iBotPeaches/Apktool/blob/master/LICENSE.md)
-- [erofs-utils](https://github.com/sekaiacg/erofs-utils/), dual license ([GPL-2.0](https://github.com/sekaiacg/erofs-utils/blob/dev/LICENSES/GPL-2.0), [Apache-2.0](https://github.com/sekaiacg/erofs-utils/blob/dev/LICENSES/Apache-2.0))
-- [img2sdat](https://github.com/xpirt/img2sdat), licensed under the [MIT License](https://github.com/xpirt/img2sdat/blob/master/LICENSE)
-- [platform_build](https://android.googlesource.com/platform/build/) (ext4_utils, f2fs_utils, signapk), licensed under the [Apache License 2.0](https://source.android.com/docs/setup/about/licenses)
-- [smali](https://github.com/google/smali), [multiple licenses](https://github.com/google/smali/blob/main/third_party/NOTICE)
+##  What is KonfigX?
 
-# Credits
-A big thanks goes to the following for their invaluable contributions in no particular order:
-- **[ShaDisNX255](https://github.com/ShaDisNX255)** for his help, time and for his [NcX ROM](https://github.com/ShaDisNX255/NcX_Stock) which inspired this project
-- **[DavidArsene](https://github.com/DavidArsene)** for his help and time
-- **[paulowesll](https://github.com/paulowesll)** for his help and support
-- **[Simon1511](https://github.com/Simon1511)** for his support and some of the device-specific patches
-- **[ananjaser1211](https://github.com/ananjaser1211)** for troubleshooting and his time
-- **[iDrinkCoffee](https://github.com/iDrinkCoffee-TG)** and **[RisenID](https://github.com/RisenID)** for documentation revisioning
-- **[LineageOS Team](https://www.lineageos.org/)** for their original [OTA updater implementation](https://github.com/LineageOS/android_packages_apps_Updater)
-- **[Bobert10](https://t.me/bobert10)** for the NERV banner
-- **[All Kangers]** for making me laugh with your rebranded repos with no difference
-- *All the UN1CA project contributors and testers ❤️*
+KonfigX is a work-in-progress custom firmware designed to deliver a clean, fast, and feature-rich One UI experience.
 
-# Stargazers over time
-[![Stargazers over time](https://starchart.cc/yagzie/NERV.svg)](https://starchart.cc/yagzie/NERV)
+Ported from the latest, and greatest S23FE Firmware.
+
+The build system downloads firmware components, applies patches, and produces a flashable ZIP for supported devices.
+
+---
+
+##  Features
+
+###  Core System
+
+* Based on latest Galaxy S23 FE firmware
+* EROFS filesystem
+* Debloated system
+* Optimized performance & smoothness
+
+###  UI & Experience
+
+* High-end animations
+* Native / Live blur support
+* Adaptive color tone
+* Adaptive refresh rate
+* AOD clock transitions
+
+###  Galaxy AI Integration
+
+* Audio eraser
+* Browsing assist
+* Call assist
+* Drawing assist
+* Interpreter
+* Note assist
+* Photo assist
+* Semantic search
+* Writing assist
+* Transcript assist
+
+###  Media & Camera
+
+* Object / shadow / reflection eraser
+* Image clipper
+* Picture remaster
+
+###  System & Privacy
+
+* Camera privacy toggle
+* Hide developer options
+* Screenshot detection toggle
+
+###  Extra Features
+
+* Samsung DeX support
+* Multi-user support
+* Dual Messenger for all apps
+* Auto PIN confirm
+* Extra brightness
+* Outdoor mode
+
+###  Tweaks
+
+* App downgrade support
+* Old targetSdk install support
+* Play Integrity Fix
+* Key attestation spoofing
+* Unlimited Google Photos backup
+* Games FPS unlock
+
+---
+
+##  Build System
+
+KonfigX includes an build system that:
+
+* Downloads required firmware
+* Extracts and patches system components
+* Integrates custom features
+* Outputs a flashable ZIP
+
+---
+
+##  Licensing
+
+Licensed under GNU GPL v3.0.
+
+External tools may use different licenses:
+
+* android-tools (Apache 2.0)
+* apktool (Apache 2.0)
+* erofs-utils (GPL-2.0 / Apache-2.0)
+* img2sdat (MIT)
+* Android platform build tools (Apache 2.0)
+* smali (multiple licences)
+---
+
+##  Credits
+
+Special thanks to all projects and developers that inspired or contributed to KonfigX:
+
+### Projects
+
+* UN1CA (for build system)
+* EliteUI (for tweaks)
+* LemonUI (for build.prop tweaks)
+* NightOS (for debloat list,principal idea of KonfigX Idea <3)
+* H33CKER (for tweaks)
+* MonsterROM (for tweaks)
+* Loftenth (for bug fixes)
+* Haip4eva (for tweaks)
+* ExtremeROM (for build system)
+* LumiROM (for tweaks and idea of ROM)
+* ProjectNERV (for base of the ROM banner)
+
+### Contributors
+
+- **[K0nf1gur@r3 Ph0n3s](https://github.com/KonfigurarePhones)** (Owner)
+- **[YACINEGTI](https://github.com/Yacinegti-DZ)** (o1s + helper)
+- **[Zarzour](https://github.com/samsungs215Ghype)** (o1s + helper)
+- .tomek𝐜𝐳(o1s + tester)
+- **[at.wralt](https://github.com/idkqwertyuiopasdf)** (doing half of work)
+* Biel Jose (r9s + helper)
+* tzerx (tester)
+* Harvey (samsung a15 support)
+
+-------------------------------------------------------------------------------
+
+##  Help
+
+There is some ways to help our project!
+
+*  Contribute by forking the repo, and opening a pull request
+*  Starring the repo
