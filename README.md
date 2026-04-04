@@ -139,6 +139,9 @@ Special thanks to all projects and developers that inspired or contributed to Ko
 * Biel Jose (r9s + helper)
 * tzerx (tester)
 * Harvey (samsung a15 support)
+* Knox_0x1 (a34x tester)
+* qoij (a22x tester)
+
 
 -------------------------------------------------------------------------------
 
