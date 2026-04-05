@@ -118,7 +118,7 @@ Special thanks to all projects and developers that inspired or contributed to Ko
 
 ### Projects
 
-* UN1CA (for features)
+* UN1CA (for features,build system)
 * LemonUI (for build.prop tweaks)
 * NightOS (for debloat list,principal idea of KonfigX ROM Idea... <3)
 * H33CKER (for tweaks)
