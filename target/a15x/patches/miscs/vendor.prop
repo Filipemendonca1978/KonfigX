@@ -1,0 +1,6 @@
+# MTK fixes
+
+ro.vendor.mtk_flv_playback_support=1
+ro.vendor.mtk_telephony_add_on_policy=0
+persist.vendor.mtk.vilte.enable=1
+vendor.mtk_thumbnail_optimization=true

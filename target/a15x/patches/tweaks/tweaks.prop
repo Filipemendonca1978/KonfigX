@@ -1,0 +1,44 @@
+# Some tweaks and spoof by @Pealeap (old Lemon UI)
+
+ro.product.model=SM-S711B
+ro.product.product.brand=samsung
+ro.product.product.device=essi
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SM-S711B
+# Touch response improvement
+# # CPU & Scheduler hints
+# set to 1 for better AnTuTu results lol # not adding for now
+#ro.vendor.perf.cpuboost.enable=1
+#ro.vendor.perf.gpu_boost.enable=1
+#
+# for better touch response
+ro.vendor.mtk_perf_simple_start_win=1
+ro.vendor.mtk_perf_response_time=1
+# # Window animation boost
+# set to 1 for better battery management and smoothness depending on what you are doing
+ro.surface_flinger.use_content_detection_for_refresh_rate=1
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+# Improve UI lag
+# # SurfaceFlinger tweaks
+debug.sf.enable_gl_backpressure=0
+debug.sf.disable_backpressure=1
+debug.sf.latch_unsignaled=1
+debug.sf.hw=1
+debug.sf.showupdates=0
+debug.sf.use_phase_offsets_as_durations=1
+# # Hardware Composer tweaks
+debug.hwui.render_dirty_regions=false
+# enabled cuz I priorize speed over 90hz smoothness
+debug.hwui.disable_vsync=true
+#
+debug.hwui.filter_test_overhead=false
+debug.hwui.profile=false
+# disabled for better battery health and less heat
+#debug.composition.type=gpu
+#
+debug.hwui.use_buffer_age=false
+# # Frame rate / vsync tuning
+ro.surface_flinger.force_hwc_copy_for_virtual_displays=false
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+ro.surface_flinger.has_wide_color_display=true
+ro.surface_flinger.use_color_management=true

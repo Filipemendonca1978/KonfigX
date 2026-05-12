@@ -1,0 +1,9 @@
+<manifest version="1.0" type="device">
+    <hal override="true" format="hidl">
+        <name>vendor.mediatek.hardware.meta</name>
+        <transport>hwbinder</transport>
+    </hal>
+    <hal override="true" format="aidl">
+        <name>vendor.mediatek.hardware.meta</name>
+    </hal>
+</manifest>
