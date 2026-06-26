@@ -142,7 +142,7 @@ Special thanks to all projects and developers that inspired or contributed to Ko
 - **[at.wralt](https://github.com/idkqwertyuiopasdf)** (doing half of work)
 * Biel Jose (r9s + helper)
 * tzerx (tester)
-* Harvey (samsung a15 support)
+* [Dani](t.me/Pealeap) (a15x support)
 * Knox_0x1 (a34x tester)
 * qoij (a22x tester)
 * ExtremeXT (for platform, and target for 2100)
