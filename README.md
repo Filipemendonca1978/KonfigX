@@ -13,7 +13,7 @@
 
 ---
 
-# KonfigX
+# KonfigX | EOL
 
 > Refined • Optimized • Powerful One UI Experience
 
